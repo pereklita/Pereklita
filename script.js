@@ -6,4 +6,5 @@ body.appendChild(rectangle);
 rectangle.style.width = 300 + 'px';
 rectangle.style.height = 200 + 'px';
 rectangle.style.borderStyle = 'solid';
+rectangle.style.borderWidth = 10 + 'px';
 
